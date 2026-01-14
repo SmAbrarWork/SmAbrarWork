@@ -10,5 +10,5 @@
 - 🌱 **Exploring:** Diving deep into the mechanics of [Low-level systems].
 - 💬 **Ask me about:** My obsession with "How it works" and the challenge of building from scratch.
 
-[![Abrar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmAbrarWork&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/SmAbrarWork)
+[![Abrar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmAbrarWork&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&custom_title=Syed%20Muhammad%20Abrar%20Hasan%20%E2%80%94%20GitHub%20Stats)](https://github.com/SmAbrarWork)
 
