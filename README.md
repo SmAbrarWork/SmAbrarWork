@@ -25,10 +25,12 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23010101.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/react-%23010101.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/react--native-%23010101.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🛠 Backend
 ![Node.js](https://img.shields.io/badge/node.js-%23010101.svg?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/express-%23010101.svg?style=for-the-badge&logo=express&logoColor=white)
 
-### ☁️ Backend, Cloud & Deployment
+### ☁️ Deployment & Cloud
 ![Firebase](https://img.shields.io/badge/firebase-%23010101.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Vercel](https://img.shields.io/badge/vercel-%23010101.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23010101.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
