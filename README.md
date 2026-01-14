@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 
-- 🔭 **Current Focus:** In 2026, I am obsessed with building [mention a specific interest, e.g., Autonomous Systems or Distributed Tools].
-- 🎓 **Education:** Pursuing Computer Science at [Your University Name].
-- 🏗 **Building:** Currently working on [Project Name] to solve [Problem it solves].
-- 🌱 **Exploring:** Diving deep into the mechanics of [New Tech, e.g., Low-level systems or AI Architecture].
-- 💬 **Ask me about:** Why things work the way they do and the art of building from scratch.
+- 🔭 **Current Focus:** In 2026, I am obsessed with building Transparent Systems from the transistors up to the kernel.
+- 🎓 **Education:** Pursuing Computer Science at [VU Virtual University of Pakistan].
+- 🏗 **Building:** Currently working on a Custom 8-bit RISC CPU to deconstruct and understand the foundational mechanics of computing.
+- 🌱 **Exploring:** Diving deep into the mechanics of [Low-level systems].
+- 💬 **Ask me about:** My obsession with "How it works" and the challenge of building from scratch.
