@@ -9,3 +9,5 @@
 - 🏗 **Building:** Currently working on a Custom 8-bit RISC CPU to deconstruct and understand the foundational mechanics of computing.
 - 🌱 **Exploring:** Diving deep into the mechanics of [Low-level systems].
 - 💬 **Ask me about:** My obsession with "How it works" and the challenge of building from scratch.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmAbrarWork)](https://github.com/anuraghazra/github-readme-stats)
