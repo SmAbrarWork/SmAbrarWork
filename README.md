@@ -20,18 +20,17 @@
 ![Assembly](https://img.shields.io/badge/assembly-%23010101.svg?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/linux-%23010101.svg?style=for-the-badge&logo=linux&logoColor=white)
 
-### 🌐 Web & Mobile Application Development
+### 🌐 Web, Mobile & Backend Development
 ![JavaScript](https://img.shields.io/badge/javascript-%23010101.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/typescript-%23010101.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/react-%23010101.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/react--native-%23010101.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🛠 Backend
 ![Node.js](https://img.shields.io/badge/node.js-%23010101.svg?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/express-%23010101.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ### ☁️ Deployment & Cloud
 ![Firebase](https://img.shields.io/badge/firebase-%23010101.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![AWS](https://img.shields.io/badge/amazon%20aws-%23010101.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Vercel](https://img.shields.io/badge/vercel-%23010101.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23010101.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Docker](https://img.shields.io/badge/docker-%23010101.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
