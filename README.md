@@ -10,5 +10,5 @@
 - 🌱 **Exploring:** Diving deep into the mechanics of [Low-level systems].
 - 💬 **Ask me about:** My obsession with "How it works" and the challenge of building from scratch.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmAbrarWork&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Abrar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmAbrarWork&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/SmAbrarWork)
 
