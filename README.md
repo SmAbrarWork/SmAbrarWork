@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Syed Muhammand Abrar Hasan]
+# Hi there 👋 I'm Syed Muhammad Abrar Hasan!
 
 ### 🛠 Driven by Curiosity | Defined by Building
 
