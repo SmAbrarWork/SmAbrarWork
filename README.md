@@ -29,7 +29,6 @@
 ![Gin](https://img.shields.io/badge/gin-%23010101.svg?style=for-the-badge&logo=go&logoColor=00ADD8)
 
 ![Docker](https://img.shields.io/badge/docker-%23010101.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/amazon%20aws-%23010101.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 ---
 
@@ -47,6 +46,7 @@
 ---
 
 ### 🧩 Data & Storage
+![SQL](https://img.shields.io/badge/sql-%23010101.svg?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23010101.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23010101.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Oracle](https://img.shields.io/badge/oracle-%23010101.svg?style=for-the-badge&logo=oracle&logoColor=F80000)
@@ -59,6 +59,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23010101.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23010101.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Docker](https://img.shields.io/badge/docker-%23010101.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/amazon%20aws-%23010101.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 ---
 
